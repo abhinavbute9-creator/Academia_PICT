@@ -1,3 +1,8 @@
+/*** Imagine a publishing company that markets both book and audiocasette versions of its works. Create a class publication that stores the title (a string), 
+a price (type float) of a publiation. From this class derive two classes: bool, which adds a page cout (type int) and tape, which adds a playing time in minutes
+(type float). Each of these three classes should have a getdata() fucntioon to get its data from the user at the keyboard and a putdata() function to display
+its data.***/
+
 #include<iostream>
 using namespace std;
 
